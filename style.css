@@ -1,0 +1,28 @@
+.back1{
+    background-image: url("back1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.div_speed{
+    float:left;
+}
+.div_volume{
+    float:right; 
+}
+.d1{
+    width: 200px;
+    border-radius: 100px;
+}
+.d2{
+    width: 200px;
+    border-radius: 100px;
+}
+.heading{
+    width:100%;
+    margin:0px;
+    font-size: 25px;
+}
+.note{
+    font-size: 20px;
+    color:black;
+}
